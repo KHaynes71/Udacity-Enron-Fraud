@@ -1,0 +1,11 @@
+Detecting ENRON fraud in macOS Big Sur | by Oscar Mauricio Forero Carrillo | Udacity Course Companion | Medium
+
+GitHub - oforero/ud120-projects at python-3.8
+
+Knowledge - Udacity
+
+Knowledge - Udacity
+
+ML_Enron_DataSet/poi_id.py at main · d2waxler/ML_Enron_DataSet · GitHub
+
+GitHub - jyothiare/Enron-Final-Project
